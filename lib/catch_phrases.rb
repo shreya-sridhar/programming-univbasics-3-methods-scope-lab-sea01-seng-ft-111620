@@ -1,5 +1,5 @@
 def mario
-  status = ''
+  status = 
   puts status
 end
 
